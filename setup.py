@@ -9,6 +9,7 @@ setup(
     install_requires=[
         'requests==2.22.0',
         'PyYAML==5.1.2',
+        'confuse==1.0.0',
     ],
 
     author='tehtbl',

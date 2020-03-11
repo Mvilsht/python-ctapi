@@ -5,6 +5,8 @@ I am not associated to cointracking.info -- use at your own risk!
 
 # Requirements:
 * requests
+* PyYAML
+* confuse
 
 # Install
 `python setup.py install`

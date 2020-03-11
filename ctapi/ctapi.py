@@ -114,7 +114,7 @@ class CTAPI(object):
             'Key': self.api_key,
             'Sign': params_signed,
             'Connection': 'close',
-            'User-Agent': 'python-ctapi/%s (https://github.com/tehtbl/python-ctapi)' % (__version__),
+            'User-Agent': 'python-ctapi/%s (https://github.com/Mvilsht/python-ctapi)' % (__version__),
         }
 
         logger.debug("=" * 30)
